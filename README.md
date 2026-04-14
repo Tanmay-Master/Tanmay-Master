@@ -58,7 +58,7 @@
 | 🏫 Institution | 📜 Degree | 🏛️ University |
 |:---|:---|:---:|
 | **Abasaheb Garware College, Pune** | M.Sc. Computer Science | Savitribai Phule Pune University (SPPU) |
-| **Waghire College, Otur** | B.Sc. Computer Science | Savitribai Phule Pune University (SPPU) |
+| **Waghire College, Saswad, Dist-Pune** | B.Sc. Computer Science | Savitribai Phule Pune University (SPPU) |
 
 </div>
 
