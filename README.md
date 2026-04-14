@@ -51,6 +51,20 @@
 
 ---
 
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📜 Degree | 📅 Year |
+|:---|:---|:---:|
+| **Savitribai Phule Pune University (SPPU)** | M.Sc. / M.E. in Computer Science | 🎓 Completed |
+
+</div>
+
+> 🧠 *Robust foundation in **classical algorithms** and **contemporary machine learning** — bridging theory and real-world engineering.*
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -97,13 +111,13 @@
 
 ### 🗄️ Databases & Cloud
 
-<imyg src="https://skillicons.dev/icons?i=supabase,vercel,firebase&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=supabase,vercel,firebase&theme=dark&perline=8" />
 
 <br/>
 
 ### ⚙️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=8" />
 
 </div>
 
@@ -220,4 +234,3 @@
 <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-brown?style=flat-square" />
 
 </div>
-y
