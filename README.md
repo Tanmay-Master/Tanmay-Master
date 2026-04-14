@@ -97,13 +97,13 @@
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=supabase,vercel,firebase&theme=dark&perline=8" />
+<imyg src="https://skillicons.dev/icons?i=supabase,vercel,firebase&theme=dark&perline=8" />
 
 <br/>
 
 ### ⚙️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -220,3 +220,4 @@
 <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-brown?style=flat-square" />
 
 </div>
+y
