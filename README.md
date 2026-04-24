@@ -55,10 +55,10 @@
 
 <div align="center">
 
-| 🏫 Institution | 📜 Degree | 🏛️ University |
+| 📜 Degree | 🏫 Institution | 🏛️ University |
 |:---|:---|:---:|
-| **Abasaheb Garware College, Pune** | M.Sc. Computer Science | Savitribai Phule Pune University (SPPU) |
-| **Waghire College, Saswad, Dist-Pune** | B.Sc. Computer Science | Savitribai Phule Pune University (SPPU) |
+| **M.Sc. Computer Science** | Abasaheb Garware College, Pune | Savitribai Phule Pune University (SPPU) |
+| **B.Sc. Computer Science** | Waghire College, Saswad, Dist-Pune | Savitribai Phule Pune University (SPPU) |
 
 </div>
 
