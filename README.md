@@ -100,13 +100,13 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=8" />
 
 <br/>
 
 ### 🚀 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&theme=dark&perline=8" />
 
 <br/>
 
@@ -118,7 +118,7 @@
 
 ### ⚙️ Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=8" />
 
 </div>
 
