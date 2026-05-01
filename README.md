@@ -184,24 +184,6 @@
 
 ---
 
-## 🎯 Profile at a Glance
-
-<div align="center">
-
-|  🌟 Feature | ✨ What it does |
-|:---|:---|
-| 📊 **GitHub Stats** | Shows total commits, PRs, issues & star count |
-| 🏷️ **Skill Badges** | Visual tech stack showcase with icons |
-| 🔥 **Streak Stats** | Tracks your daily contribution fire streak |
-| 👁️ **Visitor Counter** | Live count of profile visitors |
-| 🏆 **Trophy Showcase** | Highlights GitHub milestones & achievements |
-| 📈 **Activity Graph** | Area chart of contributions over time |
-| 🧩 **Profile Summary** | Language usage & commit activity breakdown |
-
-</div>
-
----
-
 ## 💡 Dev Quote of the Day
 
 <div align="center">
